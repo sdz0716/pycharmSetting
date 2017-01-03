@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="EditorLookupDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+    <keyboard-shortcut first-keystroke="ctrl down" second-keystroke="tab" />
+  </action>
+</keymap>
