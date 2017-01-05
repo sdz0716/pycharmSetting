@@ -8,9 +8,6 @@
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
-  <component name="CssFoldingSettings">
-    <option name="collapseDataUri" value="false" />
-  </component>
   <component name="JSCodeFoldingSettings">
     <option name="collapseJSImports" value="false" />
     <option name="collapseTSImports" value="false" />
@@ -18,8 +15,6 @@
     <option name="COLLAPSE_TS_IMPORTS" value="false" />
   </component>
   <component name="XmlFoldingSettings">
-    <option name="collapseEntities" value="false" />
-    <option name="collapseHtmlStyleAttribute" value="false" />
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
     <option name="COLLAPSE_ENTITIES" value="false" />
   </component>
