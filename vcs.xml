@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/sdz0716/autopython.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sdz0716/myPython.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\daize\Desktop\pythontest" />
