@@ -1,10 +1,16 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
+  </action>
   <action id="Console.Open">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="CopyElement">
     <keyboard-shortcut first-keystroke="shift ctrl f10" />
   </action>
+  <action id="DatabaseView.OpenDdlInConsole" />
+  <action id="Debugger.EditTypeSource" />
+  <action id="EditSourceInNewWindow" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
@@ -38,4 +44,7 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="UML.ApplyCurrentLayout" />
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift f4" />
+  </action>
 </keymap>
