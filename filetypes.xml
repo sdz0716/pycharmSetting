@@ -5,6 +5,8 @@
       <mapping pattern="note" type="PLAIN_TEXT" />
       <mapping pattern="airport" type="PLAIN_TEXT" />
       <mapping pattern="note_django" type="PLAIN_TEXT" />
+      <mapping pattern="configSQL" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="randomQuizGenerator" type="Python" />
       <mapping pattern="test" type="Python" />
       <mapping pattern="1" type="Python" />
