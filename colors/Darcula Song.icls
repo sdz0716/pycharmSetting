@@ -1,14 +1,15 @@
 <scheme name="Darcula Song" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.4166666" />
+  <option name="FONT_SCALE" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="23" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <colors>
     <option name="CARET_ROW_COLOR" value="2d2f31" />
     <option name="CONSOLE_BACKGROUND_KEY" value="80808" />
