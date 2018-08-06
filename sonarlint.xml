@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.dpandora.cn" />
+          <token>df9edf9fdf98df92df9bdfcbdfcedfc8df9fdfcedf98df9fdf9bdfcbdfcfdfccdfcedfc9df99dfcfdf98df9adfccdf92df98df9edf93dfccdf9ddfccdf9fdfcedf9edfcbdf9adfcbdfc8dfccdf93df99</token>
+          <option name="name" value="sonar_dpandora" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
