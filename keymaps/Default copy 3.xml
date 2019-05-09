@@ -8,7 +8,14 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="RecentFiles" />
   <action id="SendEOF" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
