@@ -10,6 +10,7 @@
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="end" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="RecentFiles" />
